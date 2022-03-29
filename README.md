@@ -1,2 +1,2 @@
-# educational_projects
-There are my works that I did while studying educational courses.
+# Учебные проекты
+1. <b>e-commerse_project</b>: анализ продаж компании, проблемы доставки товаров, когортный анализ, построение RFM-кластеров покупателей.
